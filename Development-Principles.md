@@ -1,6 +1,6 @@
 ### The 3 Keys of Development
 
-1. Did I create a useful feature? [[Design Principles]]
+1. Did I create a useful feature? [Design Principles](Design-Principles.md)
 2. Did I break any existing features? [Correct Code](#correct-code)
 3. Is the codebase fast and easy to work with? [Clean Code](#clean-code)
 
