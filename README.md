@@ -5,4 +5,4 @@
 - [Hiring ∕ Culture](Hiring-∕-Culture.md)
 - [Hiring ∕ Interviewing](Hiring-∕-Interviewing.md)
 - [Hiring ∕ Process](Hiring-∕-Process.md)
-- [Managing Principles](Managing Principles.md)
+- [Managing Principles](Managing-Principles.md)
